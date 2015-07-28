@@ -1,0 +1,2 @@
+# Module com.example.helloworld.widgetset.HelloworldWidgetset
+# RPC service class, partial path of RPC policy file
